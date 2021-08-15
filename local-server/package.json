@@ -1,0 +1,34 @@
+{
+  "name": "mouseserver",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astriaInight/rbx-mouse.git"
+  },
+  "keywords": [
+    "roblox",
+    "mouse",
+    "executor",
+    "lua",
+    "lib",
+    "library",
+    "module",
+    "screen"
+  ],
+  "author": "astrialnight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/astriaInight/rbx-mouse/issues"
+  },
+  "homepage": "https://github.com/astriaInight/rbx-mouse#readme"
+}
