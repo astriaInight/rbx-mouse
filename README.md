@@ -7,7 +7,7 @@ Mouse module designed for roblox lua, cannot be run from game scripts due to lim
 - Lua executor
 
 ## Setup local server
-You can download the local server in releases.
+You can download the local server in [releases](https://github.com/astriaInight/rbx-mouse/releases).
 
 Run `update.bat` to automatically install any necessary packages. If any errors occur, try running it as administrator.
 When it finishes, the window should close.
