@@ -12,7 +12,8 @@ When it finishes, the window should close.
 Now, you can run start.bat to start the local server.
 
 ## Use the lua module
-Using the mouse module is relatively basic. As of writing this, it includes 3 main functions. `mouse:SetPosition([ Vector2: position ])`, `mouse:GetPosition()`, and `mouse:GetScreenSize()`.
+Using the mouse module is relatively basic. As of writing this, it includes 3 main functions.
+`mouse:SetPosition([ Vector2: position ])`, `mouse:GetPosition()`, and `mouse:GetScreenSize()`.
 
 ### Example
 ```lua
