@@ -17,5 +17,12 @@ Using the mouse module is relatively basic. As of writing this, it includes 3 ma
 
 ### Example
 ```lua
-local mouse = loadstring(game:HttpGet(""))()
-``
+-- This will automatically get the newest version of the mouse lib
+local mouse = loadstring(game:HttpGet("https://raw.githubusercontent.com/astriaInight/rbx-mouse/main/lua-lib/mouse.lua"))()
+
+mouse:SetPosition(Vector2.new(0, 0))
+```
+
+## Things to know
+The lua module requires the local server to be running while in use.
+This is due to the fact that because of limitations with most executors, you cannot access the actual mouse without using another program.
